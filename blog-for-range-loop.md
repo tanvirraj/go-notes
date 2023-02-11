@@ -1,4 +1,6 @@
-There are two semantics in golang. value semantics and pointer semantics. before sharing details let's first 2 small code snippets
+Go's for-range loop has two form of syntax and two different semantics 
+value semantics and pointer semantics. before sharing details let's first 2 small code snippets 
+one form of for-range loop 
 
 ```
 package main
@@ -68,7 +70,7 @@ big question why
 
 Go provides two different semantics for iterating over a collection. I can iterate using value semantics or pointer semantics.
 
-value semantics mean every piece of code is working with it's own copy
+value semantics mean every piece of code is working with it's own copy data 
 
 and pointer semantics is we have one copy of data and we share the data 
 
@@ -86,7 +88,3 @@ that's why arra's 1 index is now fig
 
 
 
-
-There is nothing novel in this code.
-
-there are only 3 data structure in golang. array, slice (dynamic array) and map.

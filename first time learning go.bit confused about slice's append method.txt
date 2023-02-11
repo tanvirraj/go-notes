@@ -1,7 +1,0 @@
-tweet // 
-
-first time learning go.bit confused about slice's append method. 
-how it double slice's underline capacity double. when i try to append an element that out of first capacity. 
-
-find out that. go append method works this way to for it's future growth 
-

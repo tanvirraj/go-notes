@@ -1,0 +1,69 @@
+Tweet 
+
+
+Questions 
+tweet // 
+
+first time learning go.bit confused about slice's append method. 
+how it double slice's underline capacity double. when i try to append an element that out of first capacity. 
+
+find out that. go append method works this way to for it's future growth 
+
+
+
+note
+
+so the best place to start when writing
+any program is data structure 
+
+
+ streams of data.
+ read and write bytes 
+ 
+ 
+
+ 
+ 
+company https://www.storylane.io/\
+https://www.linkedin.com/in/nalinpradeep/
+job post 
+
+Hey Nalin 
+Hows everything going on in Storylane side?
+ 
+ 
+ 
+ https://twitter.com/_mfelfel
+ https://www.workatastartup.com/jobs/57316
+ 
+ 
+ 
+ https://www.workatastartup.com/companies/cinder-2
+ 
+ 
+ 
+ apply 
+ read first  https://speakeasyapi.dev/post/api-experts-mathias-vagni/
+ company value: https://journal.plain.com/posts/2022-02-21-values/
+ 10ox https://journal.plain.com/posts/2022_01_24-the-real-10x-engineer/
+ 
+ https://plain-public.notion.site/Help-us-power-support-for-the-world-s-best-companies-7ea2f1a4cc084b96a95141a30e136b5b
+ 
+ 
+ 
+ 
+ 
+ 
+ https://www.linkedin.com/in/williamsonmatt/
+ 
+ 
+ 
+ 
+ 
+ 
+
+Send DM  
+ https://twitter.com/ParssaKyanzadeh
+Hey Parssa!
+just visited your perosnal website. must say it's really good designed. 
+and i inspired to do sometime "experiments" like you. 
